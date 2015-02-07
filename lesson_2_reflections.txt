@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The repository contained within the .git directory is created.
+files: HEAD config description
+subdirectories: hooks info objects refs
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where we can organize the compilation of files that are appropriate for a single commit. So when working on multiple projects within a code base we can ensure we're only adding the files that tie in with a specific project or bug fix.
+
+The working directory is where we can develop and test code out, but not all files might be changed for a single purpose at one time. 
