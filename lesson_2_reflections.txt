@@ -17,3 +17,7 @@ Practice and organization. Compare the files changed, their changes, to determin
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When working on new features, investigating a bug fix, working on a new page layout design. When working with multiple developers in the same code base at one time.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help to see where code is not related or accessable and from where they really split.
