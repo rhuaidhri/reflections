@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 The staging area is where we can organize the compilation of files that are appropriate for a single commit. So when working on multiple projects within a code base we can ensure we're only adding the files that tie in with a specific project or bug fix.
 
 The working directory is where we can develop and test code out, but not all files might be changed for a single purpose at one time. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Practice and organization. Compare the files changed, their changes, to determine what qualifies to go into a well formed commit.
