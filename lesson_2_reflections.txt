@@ -21,3 +21,7 @@ When working on new features, investigating a bug fix, working on a new page lay
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help to see where code is not related or accessable and from where they really split.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The code changes in both branches are combined within their respective files. Once this is done the master branch contains all of the code and commits from the coins branch. 
