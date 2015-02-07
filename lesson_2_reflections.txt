@@ -13,3 +13,7 @@ The working directory is where we can develop and test code out, but not all fil
 How can you use the staging area to make sure you have one commit per logical change?
 
 Practice and organization. Compare the files changed, their changes, to determine what qualifies to go into a well formed commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When working on new features, investigating a bug fix, working on a new page layout design. When working with multiple developers in the same code base at one time.
