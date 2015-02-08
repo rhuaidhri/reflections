@@ -5,3 +5,9 @@ When working on projects with other remote developers comes to mind.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I might be in the middle of a project and it's easier to deal with code conflicts in one pass than to have to deal with them on a daily basis.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are initiated on GitHub to replicate an existing repository for various development tasks.
+Clones are replications held locally on machines for development.
+Branches are different paths of development, bug fix, new features, change of layout etc.
